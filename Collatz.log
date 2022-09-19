@@ -1,3 +1,15 @@
+commit 5fa00d56356dcc4074267e880379e39e19e1711f
+Author: Fares Fraij <fares@cs.utexas.edu>
+Date:   Mon Sep 19 12:53:09 2022 -0500
+
+    modifying TestCollatz.py
+
+commit bdf085435c65ab497fcb4c8a8afd7314cc3fceb1
+Author: Fares Fraij <fares@cs.utexas.edu>
+Date:   Mon Sep 19 12:47:28 2022 -0500
+
+    committing
+
 commit 77f7e922823a634346d65fbb1d2e27a24ac03e49
 Author: Fares Fraij <fares@cs.utexas.edu>
 Date:   Tue Aug 16 21:39:34 2022 -0500
